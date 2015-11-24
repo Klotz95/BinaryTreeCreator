@@ -4,4 +4,4 @@
 Im späteren Verlauf ist auch eine Entwicklung für mobile Geräte denkbar. Hierfür soll Dropbox für den Austausch der Daten genutzt werden </p>
 <h2>Diagramme und Blueprints</h2>
 <p>Die Windows-Applikation soll folgendermaßen aussehen:</p>
-<img src='/Diagrams%20and%20Design%20Blueprints/Design%20Blueprint.bmp' />
+<img src='BinaryTreeCreator/Diagrams and Design Blueprints/Design Blueprint.bmp' />
