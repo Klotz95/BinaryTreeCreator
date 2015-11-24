@@ -5,3 +5,5 @@ Im späteren Verlauf ist auch eine Entwicklung für mobile Geräte denkbar. Hier
 <h2>Diagramme und Blueprints</h2>
 <p>Die Windows-Applikation soll folgendermaßen aussehen:</p>
 <img src='Diagrams and Design Blueprints/Design Blueprint.bmp' />
+<p>Die logische Implementierung des Programms soll durch folgendes Klassendiagramm erfolgen:
+<img src='Diagrams and Design Blueprints/Klassendiagramm.bmp' />
